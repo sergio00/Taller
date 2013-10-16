@@ -25,8 +25,8 @@
 *.pdfsync
 *.ps
 *.snm
-*.synctex.gz
+*.synctexz
 *.toc
-*.vrb
-*.xdy
-*.tdo
+
+
+e
